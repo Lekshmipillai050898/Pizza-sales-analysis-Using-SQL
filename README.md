@@ -1,4 +1,4 @@
-# Pizza-sales-analysis-Using-SQL
+# Pizza sales analysis Using SQL
 
 This project involves analyzing a pizza sales dataset using SQL. The analysis includes data cleaning, key business metric calculations,
 and detailed sales insights. The goal is to help the business understand its revenue patterns, customer behavior, and best-selling products.
@@ -19,17 +19,17 @@ and performance tracking.
 
 1. Data Cleaning:
    
-Checked for and removed null values
+> Checked for and removed null values
 
-Removed duplicates
+> Removed duplicates
 
-Standardized column names
+> Standardized column names
 
 Handled data type conversions (e.g., order_date to DATE format)
 
 2.  KPI Metrics (Key Performance Indicators)
    
-Metric	Value
+>Metric	Value
 Total Revenue-	₹ 817,860.05
 Total Order Value (AOV)- ₹ 38.31
 Total Pizza Sold-	49,574 units
@@ -40,11 +40,11 @@ SQL queries were written to calculate these metrics directly from the database u
 
 3.  Trend Analysis
   
-Daily Trends for Orders
+>Daily Trends for Orders
 Found which days of the week had the highest order volume.
 Peak day: Friday
 
-Monthly Trends for Orders
+>Monthly Trends for Orders
 Analyzed order distribution by month.
 Peak month: July
 
@@ -70,7 +70,8 @@ XL, XXL: < 2%
 
 5.  Best & Worst Performers
    
-Top 5 Best-Selling Pizzas by Revenue:
+>Top 5 Best-Selling Pizzas by Revenue:
+
 Thai Chicken Pizza
 
 Barbecue Chicken Pizza
@@ -92,7 +93,7 @@ Mediterranean Pizza
 
 Spinach Pesto Pizza
 
- Top 5 by Quantity Sold:
+ >Top 5 by Quantity Sold:
  
 The Classic Deluxe Pizza
 
